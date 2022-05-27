@@ -1,0 +1,19 @@
+@import '../../../styles/mixins';
+@import '../../../styles/vars';
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: rgba($tv2-color-offdark, 70%);
+  @include font7;
+}
+
+.content.date {
+  word-break: break-word;
+}
+
+.content.text {
+  white-space: nowrap;
+}

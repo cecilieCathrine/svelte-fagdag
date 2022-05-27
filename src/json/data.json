@@ -1,0 +1,4142 @@
+{
+    "tournaments": [
+      {
+        "id": "6a8fb6d5-5102-4713-983f-5b612eb9a2bf",
+        "name": "Eliteserien",
+        "shortName": "Eliteserien",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "3bf3c608-14f0-4bda-b64d-fc3a8eef2789",
+          "name": "Norge",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/3bf3c608-14f0-4bda-b64d-fc3a8eef2789/3bf3c608-14f0-4bda-b64d-fc3a8eef2789.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament-template/7108e950-17ee-4b02-983c-c4dd734a56a6/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          }
+        ],
+        "tournament": {
+          "id": "b0bc5c9c-eeee-4a75-91d5-dcc13c7ccd86",
+          "name": "Eliteserien",
+          "tournamentTemplate": {
+            "id": "7108e950-17ee-4b02-983c-c4dd734a56a6",
+            "name": "Eliteserien"
+          }
+        },
+        "events": [
+          {
+            "id": "4bff3508-be6d-4ac8-b497-23285de0c967",
+            "name": "Rosenborg-FK Haugesund",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755092",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:45:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport Norge",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "0e432936-fd56-4545-999f-39abf7db7814",
+                  "name": "Rosenborg"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "4a02e11c-3762-4632-be2f-aba5fb5a38b4",
+                  "name": "Haugesund"
+                }
+              }
+            ]
+          },
+          {
+            "id": "95a0fccb-73bc-4f27-a8b6-86df8940d59b",
+            "name": "Sarpsborg 08-Molde",
+            "startDate": "2022-05-26T18:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755091",
+                "assetDuration": null,
+                "airTime": "2022-05-26T17:55:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport Norge",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "75bbf9ad-0b14-4daa-9cda-6b12c283df15",
+                  "name": "Sarpsborg 08"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "0378dfec-ebe3-4346-bb87-c9f35fb0dbfa",
+                  "name": "Molde"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "61809374-d97d-4238-ab7a-d12172337081",
+        "name": "1. Divisjon",
+        "shortName": "1. Divisjon",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "3bf3c608-14f0-4bda-b64d-fc3a8eef2789",
+          "name": "Norge",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/3bf3c608-14f0-4bda-b64d-fc3a8eef2789/3bf3c608-14f0-4bda-b64d-fc3a8eef2789.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament-template/f47a4d3c-5c8a-42da-8455-204eb8b800ce/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          }
+        ],
+        "tournament": {
+          "id": "e9912404-1bb4-4239-aa23-7d15cc1ce5f7",
+          "name": "OBOS-ligaen",
+          "tournamentTemplate": {
+            "id": "f47a4d3c-5c8a-42da-8455-204eb8b800ce",
+            "name": "OBOS-ligaen"
+          }
+        },
+        "events": [
+          {
+            "id": "800eefc1-8a0e-4707-8cb5-7551f35f8907",
+            "name": "Skeid-Sandnes",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755112",
+                "assetDuration": null,
+                "airTime": "2022-05-26T14:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+7",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "be4a55ed-19ee-47ca-884c-28cdcd01e69c",
+                  "name": "Skeid"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "30883184-645e-4553-a9d8-efc75f45a53d",
+                  "name": "Sandnes Ulf"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1f519427-49a7-4dc2-8659-468840fcffbd",
+            "name": "Aasane-Grorud",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755109",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+8",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "6c5d6190-52c2-4d59-846e-ef53d4bdade9",
+                  "name": "Åsane"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "e5b2824f-ef4a-4027-88b7-5db2922f7d81",
+                  "name": "Grorud"
+                }
+              }
+            ]
+          },
+          {
+            "id": "408ec6f8-6c33-452a-bb6c-5015a4395b33",
+            "name": "Bryne-Stabaek",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755111",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+2",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "a0ddc178-28cd-4298-b890-35cc46fae527",
+                  "name": "Bryne"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "1ecf9e06-9087-419e-95a2-ebb7d1d3cae8",
+                  "name": "Stabæk"
+                }
+              }
+            ]
+          },
+          {
+            "id": "417838ef-0072-4a4e-8ed9-5047cc023752",
+            "name": "Fredrikstad-KFUM",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755114",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+3",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "f4d12b17-ca09-44d8-98f5-1f5320ecbc3e",
+                  "name": "Fredrikstad"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "6993431c-8ff3-4807-a260-f27d84d1abf8",
+                  "name": "KFUM"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aa2e8f35-ae51-42cd-adb4-09d21b9a0293",
+            "name": "Kongsvinger-Brann",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755110",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+1",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "89b7bb93-e91f-4204-b594-5354a39834af",
+                  "name": "Kongsvinger"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "11d3a9ce-151b-43b9-93cc-71dd1cff6618",
+                  "name": "Brann"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dc580da5-df4d-46b7-8cd3-167e1bf58304",
+            "name": "Mjoendalen-Ranheim",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755115",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+4",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "9964a933-03c5-4d12-bc42-4e95f72ab42c",
+                  "name": "Mjøndalen"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "80018957-fcce-428c-8c61-37635f85395c",
+                  "name": "Ranheim"
+                }
+              }
+            ]
+          },
+          {
+            "id": "aaf9c446-4a29-4145-b9f5-83aa04eb1b39",
+            "name": "Start-Raufoss",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755108",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+5",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d536d1fc-87fb-4d48-8ae1-4a7110581a68",
+                  "name": "Start"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d5c97195-5156-42a2-91c1-da847c33044f",
+                  "name": "Raufoss"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8bf3b517-90bf-43a0-b7cf-b7f03234506e",
+            "name": "Stjoerdals Blink-Sogndal",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [
+              {
+                "assetId": "1755113",
+                "assetDuration": null,
+                "airTime": "2022-05-26T15:50:00Z",
+                "live": true,
+                "channelName": "TV 2 Play og Eurosport+6",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "65eb2956-fd10-450d-9d5e-9cd9951cbdf4",
+                  "name": "Stjørdals-Blink"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "085d28d1-947c-4d76-bc64-cd430a154248",
+                  "name": "Sogndal"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "e3f6a4ea-3235-447a-98f8-37e4b4ab8e3f",
+        "name": "Playoff nedrykk",
+        "shortName": "Playoff nedrykk",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "d555ed0a-e7a5-45d6-b2ec-cb2322e64cb1",
+          "name": "Frankrike",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/d555ed0a-e7a5-45d6-b2ec-cb2322e64cb1/d555ed0a-e7a5-45d6-b2ec-cb2322e64cb1.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "6156038a-6b38-48b3-9053-116ea6992662",
+          "name": "Ligue 1",
+          "tournamentTemplate": {
+            "id": "d7e3abf2-cf76-4e1c-a4e2-bea7a3285ad1",
+            "name": "Ligue 1"
+          }
+        },
+        "events": [
+          {
+            "id": "747247d0-7d88-4230-93c8-b7cbaaa31fbc",
+            "name": "Auxerre-Saint-Etienne",
+            "startDate": "2022-05-26T17:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "b399dee9-33c9-46fe-a726-498f0bdbff90",
+                  "name": "Auxerre"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d301b3ec-8c34-41f8-9dc0-6a4b53267adb",
+                  "name": "Saint-Étienne"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5b4c6948-6917-4def-87c2-d7860dc656b7",
+        "name": "Avdeling 2",
+        "shortName": "Avdeling 2",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "3bf3c608-14f0-4bda-b64d-fc3a8eef2789",
+          "name": "Norge",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/3bf3c608-14f0-4bda-b64d-fc3a8eef2789/3bf3c608-14f0-4bda-b64d-fc3a8eef2789.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "8e36005b-3c55-40d5-a8fc-e5cc445212ff",
+          "name": "PostNord-ligaen",
+          "tournamentTemplate": {
+            "id": "15fb4b77-b043-4500-8e7e-f0efa6f7239f",
+            "name": "2. divisjon"
+          }
+        },
+        "events": [
+          {
+            "id": "1dc40bfa-b4a5-4d88-a2a8-168f9044e113",
+            "name": "Vaalerenga 2-Tromsdalen",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "8",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "67e2ab34-1cfc-418f-a371-28bee556bc7b",
+                  "name": "Vålerenga 2"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d5d39984-1190-46c5-baa5-d5206869913c",
+                  "name": "Tromsdalen"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f47c56e1-0270-4c95-ad2d-f43d38107a79",
+        "name": "Playoff Europa Conference League",
+        "shortName": "Playoff Europa Conference League",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "fd38abdc-5e55-4305-a2df-1611828a91b9",
+          "name": "Nederland",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/fd38abdc-5e55-4305-a2df-1611828a91b9/fd38abdc-5e55-4305-a2df-1611828a91b9.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/7dd99ac1-8179-4a6a-af1e-a82c62f802a3/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          },
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/7dd99ac1-8179-4a6a-af1e-a82c62f802a3/icon_web_inverted.png",
+            "inverted": true,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "WEB"
+          }
+        ],
+        "tournament": {
+          "id": "7dd99ac1-8179-4a6a-af1e-a82c62f802a3",
+          "name": "Eredivisie",
+          "tournamentTemplate": {
+            "id": "372c68b4-f991-4989-9e24-75f0d29e51ac",
+            "name": "Eredivisie"
+          }
+        },
+        "events": [
+          {
+            "id": "9d288040-2c4d-4735-83f7-f58e6cf1a6b9",
+            "name": "Vitesse-AZ Alkmaar",
+            "startDate": "2022-05-26T18:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [
+              {
+                "assetId": null,
+                "assetDuration": null,
+                "airTime": "2022-05-26T18:00:00Z",
+                "live": true,
+                "channelName": "V sport2",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "30e5042a-24e6-44cd-9e8f-10fb854617e5",
+                  "name": "Vitesse"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "b8c4deca-1661-4769-9ac7-3e4e5185c80b",
+                  "name": "AZ Alkmaar"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "6c70b97b-453f-494b-b7f9-83067e3b7278",
+        "name": "NWSL",
+        "shortName": "NWSL",
+        "gender": "FEMALE",
+        "cup": false,
+        "country": {
+          "id": "59ef3a64-9b10-48f8-97f5-8d03d10b9333",
+          "name": "USA",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/59ef3a64-9b10-48f8-97f5-8d03d10b9333/59ef3a64-9b10-48f8-97f5-8d03d10b9333.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "8c7415d2-0f43-4855-ac6d-c08e9b1c4c7e",
+          "name": "NWSL",
+          "tournamentTemplate": {
+            "id": "2a31fa22-b843-43ac-82d8-0e2499b9689f",
+            "name": "NWSL"
+          }
+        },
+        "events": [
+          {
+            "id": "c5018f12-c0a1-45d0-adae-92311625ef13",
+            "name": "OL Reign-Kansas City Current",
+            "startDate": "2022-05-26T02:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "1",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "3d79b69b-8464-48a7-af77-6491c6011645",
+                  "name": "Reign FC"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "ff9e526a-a116-4290-8cbc-ca72153ae7af",
+                  "name": "Kansas City Current"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ce55f684-fb21-4ff7-8043-d47511dd3439",
+        "name": "Dansk cup",
+        "shortName": "Dansk cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "be69bd3a-90d3-49d1-95a3-7f965ede013a",
+          "name": "Danmark",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/be69bd3a-90d3-49d1-95a3-7f965ede013a/be69bd3a-90d3-49d1-95a3-7f965ede013a.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/343b620d-fa78-4182-9c3f-a6e9bcb92f2c/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          },
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/343b620d-fa78-4182-9c3f-a6e9bcb92f2c/icon_web_inverted.png",
+            "inverted": true,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "WEB"
+          }
+        ],
+        "tournament": {
+          "id": "343b620d-fa78-4182-9c3f-a6e9bcb92f2c",
+          "name": "Sydbank Pokalen",
+          "tournamentTemplate": {
+            "id": "cb0fc056-5b4d-4ea2-b64f-74c4a08c061b",
+            "name": "DBU Pokalen"
+          }
+        },
+        "events": [
+          {
+            "id": "1a3a5546-442d-4734-9c77-4ad62df14b79",
+            "name": "OB-FC Midtjylland",
+            "startDate": "2022-05-26T13:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED_AP",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [
+              {
+                "assetId": null,
+                "assetDuration": null,
+                "airTime": "2022-05-26T13:00:00Z",
+                "live": true,
+                "channelName": "Viaplay",
+                "channel": "UNKNOWN",
+                "images": []
+              }
+            ],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "4ac562f3-cf0e-4c6f-8cf6-9f93dab2b141",
+                  "name": "OB"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "4",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "0153e5ba-489f-4db9-82a5-411eacec2486",
+                  "name": "Midtjylland"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "5cfbcf5c-9b34-4ae7-8fea-c3f15014bdab",
+        "name": "Finalespillet",
+        "shortName": "Finalespillet",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "66023b19-b4b9-4a24-8c08-346febeff530",
+          "name": "Sverige",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/66023b19-b4b9-4a24-8c08-346febeff530/66023b19-b4b9-4a24-8c08-346febeff530.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/72fc64a9-7cd5-4cff-85df-561d635fc42b/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          },
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/72fc64a9-7cd5-4cff-85df-561d635fc42b/icon_web_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "WEB"
+          }
+        ],
+        "tournament": {
+          "id": "72fc64a9-7cd5-4cff-85df-561d635fc42b",
+          "name": "Svenska Cupen",
+          "tournamentTemplate": {
+            "id": "8810594b-d47a-4d64-aefe-cdbc64bf9b35",
+            "name": "Svenska Cupen"
+          }
+        },
+        "events": [
+          {
+            "id": "402da0c6-d4cf-4012-bb8e-63445dd1b881",
+            "name": "Hammarby-Malmoe FF",
+            "startDate": "2022-05-26T13:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED_AP",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "5a4e36e5-2765-4452-941a-eede3b62a0ad",
+                  "name": "Hammarby"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "4",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "3d981cdd-8b97-42e9-a8f2-4701ba06301c",
+                  "name": "Malmö"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "844aed51-0f36-45c6-bcea-c70f4c865590",
+        "name": "Super League Qualification",
+        "shortName": "Super League Qualification",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "d68f7ddb-f311-4f71-beae-6e0d3f47a658",
+          "name": "Sveits",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/d68f7ddb-f311-4f71-beae-6e0d3f47a658/d68f7ddb-f311-4f71-beae-6e0d3f47a658.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "ebda09ec-0bbb-4a0c-be9f-cad6ccad8ff4",
+          "name": "Super League",
+          "tournamentTemplate": {
+            "id": "a8100d20-26ff-474c-97a1-2315e253c01b",
+            "name": "Super League"
+          }
+        },
+        "events": [
+          {
+            "id": "c915bdeb-9364-4cbd-9254-07e036ccfc0d",
+            "name": "Schaffhausen-Luzern",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "76e19339-3a41-4ed7-9b4f-02dd2e414d02",
+                  "name": "Schaffhausen"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "85aebf65-ea28-4d57-935a-fd354c1c6895",
+                  "name": "Luzern"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "8d5df9d2-5ece-442a-a09a-2acaca8bdd02",
+        "name": "Bundesliga ECL Playoff",
+        "shortName": "Bundesliga ECL Playoff",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "11a3154f-923f-4fa8-843c-905e3fe8cb65",
+          "name": "Østerrike",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/11a3154f-923f-4fa8-843c-905e3fe8cb65/11a3154f-923f-4fa8-843c-905e3fe8cb65.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/190d4ef6-eccf-4dac-aa5e-9d37eda3e6ae/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          },
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/190d4ef6-eccf-4dac-aa5e-9d37eda3e6ae/icon_web_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "WEB"
+          }
+        ],
+        "tournament": {
+          "id": "190d4ef6-eccf-4dac-aa5e-9d37eda3e6ae",
+          "name": "Admiral Bundesliga",
+          "tournamentTemplate": {
+            "id": "b2e2a5d7-4f40-4db8-8d79-bc442331e528",
+            "name": "Bundesliga"
+          }
+        },
+        "events": [
+          {
+            "id": "a49c0b08-6b26-4a18-a1d4-2bf90018b64a",
+            "name": "WSG Tirol-Rapid Wien",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "3dde0636-5db2-45a3-b0ff-0229db7c011c",
+                  "name": "Swarovski"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "f4826abc-9123-4d68-a3f0-0f0b76cc242b",
+                  "name": "Rapid Wien"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aa12a5ab-024b-4203-bbea-2a891821e09f",
+        "name": "Playoff opprykk",
+        "shortName": "Playoff opprykk",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "6c822c60-7a3e-4640-a897-405a0bb6fa35",
+          "name": "Italia",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/6c822c60-7a3e-4640-a897-405a0bb6fa35/6c822c60-7a3e-4640-a897-405a0bb6fa35.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/49528b43-0eec-4eba-a746-9a5fff171d44/icon_app_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "APP"
+          },
+          {
+            "url": "https://static-content.aws42.tv2.no/prod/tournament/49528b43-0eec-4eba-a746-9a5fff171d44/icon_web_.png",
+            "inverted": false,
+            "type": "ICON",
+            "width": null,
+            "height": null,
+            "platform": "WEB"
+          }
+        ],
+        "tournament": {
+          "id": "49528b43-0eec-4eba-a746-9a5fff171d44",
+          "name": "Serie B BKT",
+          "tournamentTemplate": {
+            "id": "ee44b9b7-240f-47ac-9f98-a6e35a58b5da",
+            "name": "Serie B"
+          }
+        },
+        "events": [
+          {
+            "id": "a183413a-d209-4efd-b633-96a2392a6cb5",
+            "name": "Monza-Pisa",
+            "startDate": "2022-05-26T18:30:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "92879cad-5c93-486e-92b4-5eb4ed42f992",
+                  "name": "Monza"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "c9e3df09-f2cf-4246-a4f8-d878cf1bf264",
+                  "name": "Pisa"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "9fbdd630-5afe-4248-8e74-013e174955f0",
+        "name": "Kategoria Superiore",
+        "shortName": "Kategoria Superiore",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "5b78d3fb-539a-4188-bdd0-c35bb2b38939",
+          "name": "Albania",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/5b78d3fb-539a-4188-bdd0-c35bb2b38939/5b78d3fb-539a-4188-bdd0-c35bb2b38939.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "1b453eb5-f254-4433-80d4-8408b3fc23a8",
+          "name": "Kategoria Superiore",
+          "tournamentTemplate": {
+            "id": "b45478c6-f1ee-4148-963e-6c0b7bc414b4",
+            "name": "Kategoria Superiore"
+          }
+        },
+        "events": [
+          {
+            "id": "916d014d-c8a7-4b31-95dc-2718d5def063",
+            "name": "Egnatia-Dinamo Tirana",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "36",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "2c3041dd-76cf-4fbf-ad38-af2c489c2a8c",
+                  "name": "Egnatia"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "44e1c912-243c-43c5-94da-cc165fb5fe81",
+                  "name": "Dinamo Tirana"
+                }
+              }
+            ]
+          },
+          {
+            "id": "c00433aa-44e1-44cb-a6a3-6e0bc6a7de9b",
+            "name": "KF Tirana-Kukesi",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "36",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "7394dd9e-8871-4889-8daa-eb92a55c5484",
+                  "name": "Tirana"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "fcd64732-8457-4cc3-9311-1220a9faae56",
+                  "name": "Kukësi"
+                }
+              }
+            ]
+          },
+          {
+            "id": "1fa15641-48b1-4611-bc2f-8be8dd15cd11",
+            "name": "Kastrioti-Vllaznia",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "36",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "b2378ba7-a395-4b1b-83b6-ea2aa42eb14a",
+                  "name": "Kastrioti"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "6f3b68ce-0771-44b6-afe9-353f431cd28b",
+                  "name": "Vllaznia"
+                }
+              }
+            ]
+          },
+          {
+            "id": "93b42486-ada4-442d-a18f-62729c70185d",
+            "name": "Laci-Partizani",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "36",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "679c09c6-3f0a-4b83-a204-e929f216318f",
+                  "name": "Laçi"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "4",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "c2096659-4808-4282-a5ae-d2f2e484aa1f",
+                  "name": "Partizani"
+                }
+              }
+            ]
+          },
+          {
+            "id": "155efc2d-70d4-4498-887c-1a5117d97419",
+            "name": "Skenderbeu-Teuta Durres",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "36",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "a4b28b06-ef79-4e6e-9bec-a807f4732c8a",
+                  "name": "Skënderbeu"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "cfac173c-4de2-424e-8ba7-33f2da3c7aec",
+                  "name": "Teuta"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "042e3027-2dc0-4812-9436-9adb749258e9",
+        "name": "Serie B",
+        "shortName": "Serie B",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "9173a00b-ad55-4a58-8b2e-c941e0ea62b0",
+          "name": "Brasil",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/9173a00b-ad55-4a58-8b2e-c941e0ea62b0/9173a00b-ad55-4a58-8b2e-c941e0ea62b0.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "79f5b21d-e0ec-4fcf-b2a9-11d464cb2f21",
+          "name": "Série B",
+          "tournamentTemplate": {
+            "id": "83890cf6-4e62-4c46-a3c7-b0a2da37710e",
+            "name": "Série B"
+          }
+        },
+        "events": [
+          {
+            "id": "acbd4593-3937-4c59-b4dc-9e83b49de1a1",
+            "name": "Londrina EC-Operario Ferroviario",
+            "startDate": "2022-05-25T22:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "9",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "c587840d-c2e5-4f19-a200-2ca8bd459ed1",
+                  "name": "Londrina"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "dc65b717-fc93-4cd5-a5b1-e7cc437c81e4",
+                  "name": "Operario Ferroviario"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f9bd8c8e-4f41-4632-a560-c0125e47f694",
+        "name": "Premier League",
+        "shortName": "Premier League",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "79d6d96d-ca26-4c0e-92e6-5635e62bd916",
+          "name": "Faroe Islands",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/79d6d96d-ca26-4c0e-92e6-5635e62bd916/79d6d96d-ca26-4c0e-92e6-5635e62bd916.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "5dce7012-d4ad-4f14-890d-e5b7b24f5fc3",
+          "name": "Meistaradeildin",
+          "tournamentTemplate": {
+            "id": "734938d3-fe4c-419c-80f9-06c2033bcae5",
+            "name": "Meistaradeildin"
+          }
+        },
+        "events": [
+          {
+            "id": "e689756c-d89f-4b76-865f-e24e3b7e286f",
+            "name": "Vikingur-AB Argir",
+            "startDate": "2022-05-26T14:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "12",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "5",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "7",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "ca614a7a-cbca-4e4f-895f-b71c7b5652a4",
+                  "name": "Víkingur"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "43635f50-092c-475b-8ef6-8013bac761e4",
+                  "name": "AB Argir"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3eabdaf6-36db-41a2-957b-dbf20fefed72",
+            "name": "B68 Toftir-NSI Runavik",
+            "startDate": "2022-05-26T17:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "12",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "7db9b8ba-4095-4ecd-9cc5-3d50b2d0c33e",
+                  "name": "B68"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "af2dd155-2d66-4b1f-ae05-49059d8bbb22",
+                  "name": "NSÍ Runavík"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "fd8d8dc2-e587-4cd2-bdc7-e5648f0883d1",
+        "name": "Finsk cup",
+        "shortName": "Finsk cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "0c65de34-914b-42bc-a3f0-f129ebe6caf2",
+          "name": "Finland",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/0c65de34-914b-42bc-a3f0-f129ebe6caf2/0c65de34-914b-42bc-a3f0-f129ebe6caf2.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "1a014f33-9237-439a-8324-c747231532bc",
+          "name": "Suomen cup",
+          "tournamentTemplate": {
+            "id": "715cd8b7-6f91-4297-a83f-d1d632ae5fea",
+            "name": "Suomen cup"
+          }
+        },
+        "events": [
+          {
+            "id": "4e74f6c3-9417-401c-8773-766b5720d8bd",
+            "name": "Poexyt-HIFK",
+            "startDate": "2022-05-26T10:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "5",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "2b6aaae8-63c2-4b17-b9e7-c4e0913ff48a",
+                  "name": "Poexyt"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "7",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "9626c605-af4d-4fbc-b61a-6b27a5ae758c",
+                  "name": "HIFK"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2fa523ef-5b8b-4708-8b04-3ff155dca12a",
+            "name": "KuPS-EIF",
+            "startDate": "2022-05-26T12:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "5",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "5",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "5",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "5",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "173a28d2-1732-4b99-b864-5a48372a40ae",
+                  "name": "KuPS"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "6c0d9488-4c5d-456d-82ba-5482124fb4e4",
+                  "name": "EIF"
+                }
+              }
+            ]
+          },
+          {
+            "id": "952b797c-a60a-429b-8a4f-b4dc20a336d8",
+            "name": "KJP Kouvola-SalPa",
+            "startDate": "2022-05-26T13:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "5",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "2fa88254-11ac-4ec7-a873-4ffb0859b891",
+                  "name": "KJP Kouvola"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "96e7d060-964b-48f1-b37a-f8d2818d6bb4",
+                  "name": "SalPa"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bcb47412-fc98-42ac-ad5d-8f058cb33cc3",
+        "name": "Erovnuli Liga",
+        "shortName": "Erovnuli Liga",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "bb6c78e0-aa7f-40bf-810b-376959204126",
+          "name": "Georgia",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/bb6c78e0-aa7f-40bf-810b-376959204126/bb6c78e0-aa7f-40bf-810b-376959204126.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "4ba736af-2e5f-4746-9211-40d4ef168ed2",
+          "name": "Umaglesi Liga",
+          "tournamentTemplate": {
+            "id": "6d9941f7-2ee1-4db5-8a4a-4c334750023a",
+            "name": "Umaglesi Liga"
+          }
+        },
+        "events": [
+          {
+            "id": "6f33201e-6e80-4d94-b5a3-6fb2770b6fdf",
+            "name": "Torpedo Kutaisi-FC Gagra",
+            "startDate": "2022-05-26T17:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "16",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "eb8e4703-b5f0-4ce9-b0b7-f42ceda8d55d",
+                  "name": "Torpedo Kutaisi"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "19f8edf3-0c93-46b6-9012-03154e601be7",
+                  "name": "Gagra"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f6282caa-5f23-4eaf-9abd-8a8b7438d13c",
+        "name": "Premier League",
+        "shortName": "Premier League",
+        "gender": "MALE",
+        "cup": false,
+        "country": {
+          "id": "b726407d-ee55-4c5e-81e1-10bee1ea1e7a",
+          "name": "Hviterussland",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/b726407d-ee55-4c5e-81e1-10bee1ea1e7a/b726407d-ee55-4c5e-81e1-10bee1ea1e7a.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "3e753b7a-c46e-464c-994a-4d1d3c22d87b",
+          "name": "Vysshaya Liga",
+          "tournamentTemplate": {
+            "id": "e5b82496-b69f-43c5-932c-65d516c3fb13",
+            "name": "Vysshaya Liga"
+          }
+        },
+        "events": [
+          {
+            "id": "741a6308-6a6a-4f32-81cb-e3705f12812b",
+            "name": "FC Minsk-Arsenal Dzerzhinsk",
+            "startDate": "2022-05-26T15:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "10",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "4367650e-8379-4d95-8384-93614a5a26e5",
+                  "name": "Minsk"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "3b4c35dd-327b-4652-9560-7f4c41c2abfa",
+                  "name": "Arsenal Dzerzhinsk"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "b0646cb2-64fe-48e0-8cbd-966311916f10",
+        "name": "Islandsk cup",
+        "shortName": "Islandsk cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "30649184-31a7-4b78-a519-2829ea2308ba",
+          "name": "Island",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/30649184-31a7-4b78-a519-2829ea2308ba/30649184-31a7-4b78-a519-2829ea2308ba.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "bcc054d1-ebcd-47b7-834e-7be9a369361f",
+          "name": "Islandsk cup",
+          "tournamentTemplate": {
+            "id": "1a85aa24-ee4a-45c2-829b-347fba2cf6e2",
+            "name": "Islandsk cup"
+          }
+        },
+        "events": [
+          {
+            "id": "4bdb8059-e182-417f-84ed-8d4387809b06",
+            "name": "Fram Reykjavik-Leiknir Reykjavik",
+            "startDate": "2022-05-26T14:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED_AET",
+            "elapsedMinutes": null,
+            "round": "16-delsfinale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "93b68ae2-c3af-46c8-8eea-82be8c41e169",
+                  "name": "Fram"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "59442964-ab50-47a3-95fe-128ac24a820f",
+                  "name": "Leiknir Reykjavik"
+                }
+              }
+            ]
+          },
+          {
+            "id": "cc543f7c-b859-4788-9cf6-bc04661469e0",
+            "name": "KA Akureyri-Reynir Sandgerdi",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "16-delsfinale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "580c2679-5ec7-4ee5-b2e4-3100f489aee6",
+                  "name": "KA"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "4c775caf-fe61-4e48-b201-123a56b05471",
+                  "name": "Reynir Sandgerdi"
+                }
+              }
+            ]
+          },
+          {
+            "id": "09460256-47f6-4c97-b611-0d920b318b8c",
+            "name": "Haukar-Vikingur Reykjavik",
+            "startDate": "2022-05-26T19:15:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "16-delsfinale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "a03cfb59-31a7-4837-8e09-4bcd4afefbff",
+                  "name": "Haukar"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "7",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "7",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "6681bb47-844c-49ba-8e32-47f485033db1",
+                  "name": "Víkingur Reykjavík"
+                }
+              }
+            ]
+          },
+          {
+            "id": "ad1bbb17-fccf-4514-9b61-04723bd531e3",
+            "name": "Breidablik-Valur",
+            "startDate": "2022-05-26T19:45:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "16-delsfinale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "6",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "f48cbdc5-e7bf-48e4-9977-1a4d8099cf21",
+                  "name": "Breidablik"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "a43a5cf3-1dea-4561-9f6c-c2a30541c61c",
+                  "name": "Valur"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "336b360d-dca7-4633-a778-4dd9ec7a8d6d",
+        "name": "Cup",
+        "shortName": "Cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "201aaa24-ae99-4cb1-879b-7ac90679a455",
+          "name": "Kosovo",
+          "images": []
+        },
+        "images": [],
+        "tournament": {
+          "id": "925afe94-c061-45bf-8043-d2de5cf8ad4a",
+          "name": "Kosovisk cup",
+          "tournamentTemplate": {
+            "id": "1adeb84f-fb7c-4589-a662-b4ef316250d1",
+            "name": "Kosovisk cup"
+          }
+        },
+        "events": [
+          {
+            "id": "ab92fa2b-eabd-4653-8399-605ca699ad78",
+            "name": "Llapi-Drita",
+            "startDate": "2022-05-26T18:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "49a08a8e-af04-46a3-a1d4-6cc3e0f169ab",
+                  "name": "Llapi "
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "5d63ce4e-946e-4c17-9e1c-ee99896665b9",
+                  "name": "Drita"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "1f4cd04a-e844-4512-9e25-8d4d1e5d43e8",
+        "name": "Kroatisk FA-cup",
+        "shortName": "Kroatisk FA-cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "661ae98a-485e-4262-8d85-5e966a32fa28",
+          "name": "Kroatia",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/661ae98a-485e-4262-8d85-5e966a32fa28/661ae98a-485e-4262-8d85-5e966a32fa28.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "c33087c6-b3ad-41a7-9846-6b8955cf2d35",
+          "name": "Kroatisk cup",
+          "tournamentTemplate": {
+            "id": "68e68bc1-299c-4e7c-9f34-92b97267866d",
+            "name": "Kroatisk cup"
+          }
+        },
+        "events": [
+          {
+            "id": "21210ea4-b8c1-4bf8-bb31-2c6a72f60c92",
+            "name": "Rijeka-Hajduk Split",
+            "startDate": "2022-05-26T17:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "db61f09a-d1d1-4189-89bf-4854f0b46a33",
+                  "name": "Rijeka"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d5d3e1eb-4af7-4997-9ab2-d184626a741e",
+                  "name": "Hajduk Split"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "229879f3-7c25-4bfa-8c40-cb9aeed706e9",
+        "name": "National Division Qualification",
+        "shortName": "National Division Qualification",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "302887da-eb75-4056-abe9-cf79e4babd5c",
+          "name": "Luxembourg",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/302887da-eb75-4056-abe9-cf79e4babd5c/302887da-eb75-4056-abe9-cf79e4babd5c.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "eb27f32b-535a-4844-aff5-f961fad96e93",
+          "name": "Nationaldivisioun",
+          "tournamentTemplate": {
+            "id": "f64cb4b5-c65a-401d-a683-1bc7260b84c4",
+            "name": "Nationaldivisioun"
+          }
+        },
+        "events": [
+          {
+            "id": "9a455827-9e24-4aae-86a0-93b88fdad35e",
+            "name": "FC Mamer 32-US Hostert",
+            "startDate": "2022-05-26T17:30:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED_AP",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "12e35835-d57f-4edc-a7a2-a14a68e54808",
+                  "name": "FC Mamer 32"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "PENALTY_SHOOTOUT",
+                    "value": "4",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "6",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "b75bccc9-a026-4a0d-98fd-c9db04ac8c92",
+                  "name": "Hostert"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "95fff4d4-7878-4143-801b-766d4db9dd6c",
+        "name": "National Division Qualification",
+        "shortName": "National Division Qualification",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "8387bd02-2e0f-432d-afa7-37eb05b3c792",
+          "name": "Moldova",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/8387bd02-2e0f-432d-afa7-37eb05b3c792/8387bd02-2e0f-432d-afa7-37eb05b3c792.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "4b496ead-1b08-4854-aa85-d3318f681437",
+          "name": "Divizia Națională",
+          "tournamentTemplate": {
+            "id": "60d2e88b-dccd-4714-adcb-2723d5633489",
+            "name": "Divizia Națională"
+          }
+        },
+        "events": [
+          {
+            "id": "db331198-af3c-4cd1-87e6-ac40171cdb39",
+            "name": "CF Sparta Selemet-Zimbru",
+            "startDate": "2022-05-26T16:00:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "be29559e-0af2-4abf-859f-c189c315fc9f",
+                  "name": "CF Sparta Selemet"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "4e3ac561-2c6e-46fd-8991-e42795bba0e5",
+                  "name": "Zimbru"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f257e0f1-dba2-40ac-b0da-309fe7875d93",
+        "name": "Playoff",
+        "shortName": "Playoff",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "ca340fa5-6994-42af-b098-ea4cc9c19761",
+          "name": "San Marino",
+          "images": []
+        },
+        "images": [],
+        "tournament": {
+          "id": "00d1fffd-22a6-4636-8fae-48c889fb4efb",
+          "name": "Campionato Sammarinese di Calcio",
+          "tournamentTemplate": {
+            "id": "7f411e68-eab5-4b62-b941-07106bd9ff0e",
+            "name": "Campionato Sammarinese di Calcio"
+          }
+        },
+        "events": [
+          {
+            "id": "fbdf02c8-16bb-49e7-b7cd-6b822c8f811c",
+            "name": "La Fiorita Montegiardino-Tre Penne Galazzano",
+            "startDate": "2022-05-26T18:45:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "b857ff5d-7514-4f68-8463-d5f2b00ad1c6",
+                  "name": "La Fiorita"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "d469be7b-2900-403c-820e-9ad2ecac03e1",
+                  "name": "Tre Penne"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "f8ae222f-a521-4bb2-a356-dd6c822c1a1c",
+        "name": "Prva Liga Qualification",
+        "shortName": "Prva Liga Qualification",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "a58215ea-b67d-46ba-8ab7-51717e28872e",
+          "name": "Slovenia",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/a58215ea-b67d-46ba-8ab7-51717e28872e/a58215ea-b67d-46ba-8ab7-51717e28872e.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "23808ac1-d5fa-4afb-ab2c-77d0212e2eaf",
+          "name": "PrvaLiga",
+          "tournamentTemplate": {
+            "id": "d43d6d1d-f8e0-497d-9ce9-d0b7444da932",
+            "name": "PrvaLiga"
+          }
+        },
+        "events": [
+          {
+            "id": "42b6a969-61c9-4ed5-9f69-31205dbdc17d",
+            "name": "Tabor-ND Triglav",
+            "startDate": "2022-05-26T15:30:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "29b65a4c-ea29-4af1-97a8-8fd183eabf44",
+                  "name": "Tabor"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "0cccaafe-92c8-43e2-9ee5-5561e045234b",
+                  "name": "Triglav"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "54d9a7fc-e866-4d96-ae03-e9f6f0f8306c",
+        "name": "Tyrkisk cup",
+        "shortName": "Tyrkisk cup",
+        "gender": "MALE",
+        "cup": true,
+        "country": {
+          "id": "79bbbe27-082a-4dd6-8c58-0f9cbe9028b5",
+          "name": "Tyrkia",
+          "images": [
+            {
+              "url": "https://static-content.aws42.tv2.no/prod/country/79bbbe27-082a-4dd6-8c58-0f9cbe9028b5/79bbbe27-082a-4dd6-8c58-0f9cbe9028b5.png",
+              "inverted": false,
+              "type": "UNKNOWN",
+              "width": null,
+              "height": null,
+              "platform": "UNKNOWN"
+            }
+          ]
+        },
+        "images": [],
+        "tournament": {
+          "id": "ef9bcb28-50e7-4f25-b239-9d399ef42dd6",
+          "name": "Tyrkisk cup",
+          "tournamentTemplate": {
+            "id": "1cfeda1a-da27-45f7-94c5-a290396007b4",
+            "name": "Tyrkisk cup"
+          }
+        },
+        "events": [
+          {
+            "id": "48c69e76-175b-468f-a145-004e4e7b9bf5",
+            "name": "Kayserispor-Sivasspor",
+            "startDate": "2022-05-26T17:45:00Z",
+            "status": "FINISHED",
+            "statusDescription": "FINISHED_AET",
+            "elapsedMinutes": null,
+            "round": "Finale",
+            "programs": [],
+            "sponsor": null,
+            "participants": [
+              {
+                "results": [
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "2",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "c156430e-7b86-4223-baf8-8b270fb9d8d5",
+                  "name": "Kayserispor"
+                }
+              },
+              {
+                "results": [
+                  {
+                    "resultType": "EXTRA_TIME",
+                    "value": "2",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "RUNNING_SCORE",
+                    "value": "3",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "ORDINARY_TIME",
+                    "value": "1",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "HALFTIME",
+                    "value": "0",
+                    "checkpoint": null
+                  },
+                  {
+                    "resultType": "FINAL_RESULT",
+                    "value": "3",
+                    "checkpoint": null
+                  }
+                ],
+                "aggregatedResults": [],
+                "participant": {
+                  "id": "dfe17af3-ffcc-4248-a402-88c62296d11e",
+                  "name": "Sivasspor"
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
