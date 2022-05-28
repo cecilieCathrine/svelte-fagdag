@@ -53,7 +53,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:45:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport Norge",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -134,7 +134,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T17:55:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport Norge",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -256,7 +256,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T14:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+7",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -337,7 +337,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+8",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -418,7 +418,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+2",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -499,7 +499,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+3",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -570,7 +570,7 @@
             "id": "aa2e8f35-ae51-42cd-adb4-09d21b9a0293",
             "name": "Kongsvinger-Brann",
             "startDate": "2022-05-26T16:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "8",
@@ -580,7 +580,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+1",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -661,7 +661,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+4",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -742,7 +742,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+5",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -823,7 +823,7 @@
                 "assetDuration": null,
                 "airTime": "2022-05-26T15:50:00Z",
                 "live": true,
-                "channelName": "TV 2 Play og Eurosport+6",
+                "channelName": "TV 2 Play",
                 "channel": "UNKNOWN",
                 "images": []
               }
@@ -1029,7 +1029,7 @@
             "id": "1dc40bfa-b4a5-4d88-a2a8-168f9044e113",
             "name": "Vaalerenga 2-Tromsdalen",
             "startDate": "2022-05-26T15:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "8",
@@ -1532,7 +1532,7 @@
             "id": "402da0c6-d4cf-4012-bb8e-63445dd1b881",
             "name": "Hammarby-Malmoe FF",
             "startDate": "2022-05-26T13:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED_AP",
             "elapsedMinutes": null,
             "round": "Finale",
@@ -1895,7 +1895,7 @@
             "id": "a183413a-d209-4efd-b633-96a2392a6cb5",
             "name": "Monza-Pisa",
             "startDate": "2022-05-26T18:30:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "Finale",
@@ -2140,7 +2140,7 @@
             "id": "1fa15641-48b1-4611-bc2f-8be8dd15cd11",
             "name": "Kastrioti-Vllaznia",
             "startDate": "2022-05-26T15:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "36",
@@ -2282,7 +2282,7 @@
             "id": "155efc2d-70d4-4498-887c-1a5117d97419",
             "name": "Skenderbeu-Teuta Durres",
             "startDate": "2022-05-26T15:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "36",
@@ -2662,7 +2662,7 @@
             "id": "4e74f6c3-9417-401c-8773-766b5720d8bd",
             "name": "Poexyt-HIFK",
             "startDate": "2022-05-26T10:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "5",
@@ -3113,7 +3113,7 @@
             "id": "4bdb8059-e182-417f-84ed-8d4387809b06",
             "name": "Fram Reykjavik-Leiknir Reykjavik",
             "startDate": "2022-05-26T14:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED_AET",
             "elapsedMinutes": null,
             "round": "16-delsfinale",
@@ -3430,7 +3430,7 @@
             "id": "ab92fa2b-eabd-4653-8399-605ca699ad78",
             "name": "Llapi-Drita",
             "startDate": "2022-05-26T18:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "Finale",
@@ -3759,7 +3759,7 @@
             "id": "db331198-af3c-4cd1-87e6-ac40171cdb39",
             "name": "CF Sparta Selemet-Zimbru",
             "startDate": "2022-05-26T16:00:00Z",
-            "status": "FINISHED",
+            "status": "IN_PROGRESS",
             "statusDescription": "FINISHED",
             "elapsedMinutes": null,
             "round": "Finale",

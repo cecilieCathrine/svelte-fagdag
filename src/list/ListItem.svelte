@@ -1,10 +1,4 @@
-<script>
-  import { createEventDispatcher } from 'svelte';
-
-  const dispatch = createEventDispatcher();
-</script>
-
-<div class="list-item" on:click={() => dispatch('listItemClick')}>
+<div class="list-item">
   <slot />
 </div>
 
@@ -17,10 +11,10 @@
   }
 
   .list-item:nth-of-type(2n-1) {
-    background-color: white;
+    background-color: #fafafa;
   }
 
   .list-item:nth-of-type(2n) {
-    background-color: #fafafa;
+    background-color: white;
   }
 </style>

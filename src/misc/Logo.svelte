@@ -2,8 +2,6 @@
   export let tournament;
   export let position;
   export let width;
-
-  console.log(tournament.country.images[0]);
 </script>
 
 {#if tournament.country && tournament.country.images.length}

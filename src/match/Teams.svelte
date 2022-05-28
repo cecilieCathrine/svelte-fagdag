@@ -14,6 +14,7 @@
     flex: 1;
     font-size: 14px;
     overflow: hidden;
+    align-items: flex-start;
   }
 
   .team {

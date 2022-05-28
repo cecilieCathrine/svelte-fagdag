@@ -1,12 +1,11 @@
 <script>
   export let match;
 
-  const homeRunningScore = match.participants[0].results.find(
-    res => res.resultType === 'RUNNING_SCORE'
-  );
-  const awayRunningScore = match.participants[1].results.find(
-    res => res.resultType === 'RUNNING_SCORE'
-  );
+  let homeScore;
+  let awayScore;
+
+  $: homeScore = match.participants[0].results.find(res => res.resultType === 'RUNNING_SCORE');
+  $: awayScore = match.participants[1].results.find(res => res.resultType === 'RUNNING_SCORE');
 </script>
 
 <div
@@ -17,8 +16,8 @@
   {#if match.status === 'NOT_STARTED'}
     <span>-</span>
   {:else}
-    <div>{homeRunningScore?.value || 0}</div>
-    <div>{awayRunningScore?.value || 0}</div>
+    <div>{homeScore?.value || 0}</div>
+    <div>{awayScore?.value || 0}</div>
   {/if}
 </div>
 

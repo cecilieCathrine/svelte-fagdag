@@ -4,10 +4,11 @@
   import ListItem from '../list/ListItem.svelte';
   import Match from '../match/Match.svelte';
   import Logo from '../misc/Logo.svelte';
+  import { fade } from 'svelte/transition';
   export let tournament;
 </script>
 
-<div class="tournament">
+<div class="tournament" transition:fade={300}>
   <List>
     <ListHeader>
       <div class="header-container flex">
@@ -17,12 +18,13 @@
         </div>
       </div>
     </ListHeader>
+
+    {#each tournament.events as match}
+      <ListItem>
+        <Match {match} />
+      </ListItem>
+    {/each}
   </List>
-  {#each tournament.events as match}
-    <ListItem>
-      <Match {match} />
-    </ListItem>
-  {/each}
 </div>
 
 <style>

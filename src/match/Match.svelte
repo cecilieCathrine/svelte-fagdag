@@ -7,12 +7,12 @@
 
 <div class="match">
   <div class="match-container">
-    <div class="status">
+    <div class="flex">
       <Status statusText={match.status} />
+      <Result {match} />
+      <Teams {match} />
     </div>
-    <Result {match} />
-    <Teams {match} />
-    <!--   <Channel {match} {dimensions} /> -->
+    <span class="text bold">{match.programs[0]?.channelName || ''}</span>
   </div>
 </div>
 
@@ -26,8 +26,9 @@
     justify-content: space-between;
     align-items: center;
   }
-
-  .status {
-    width: 35px;
+  .flex {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
   }
 </style>
