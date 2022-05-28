@@ -1,9 +1,6 @@
 <script>
   export let match;
 
-  let homeScore;
-  let awayScore;
-
   $: homeScore = match.participants[0].results.find(res => res.resultType === 'RUNNING_SCORE');
   $: awayScore = match.participants[1].results.find(res => res.resultType === 'RUNNING_SCORE');
 </script>
