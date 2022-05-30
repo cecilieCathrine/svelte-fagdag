@@ -8,24 +8,26 @@
   export let tournament;
 </script>
 
-<div class="tournament" transition:fade={300}>
-  <List>
-    <ListHeader>
-      <div class="header-container flex">
-        <div class="button-content-right">
-          <Logo {tournament} position="center left" width="24px" />
-          <span class="button-text">{tournament.name}</span>
+{#key tournament}
+  <div class="tournament" in:fade={{ duration: 300, delay: 100 }}>
+    <List>
+      <ListHeader>
+        <div class="header-container flex">
+          <div class="button-content-right">
+            <Logo {tournament} position="center left" width="24px" />
+            <span class="button-text">{tournament.name}</span>
+          </div>
         </div>
-      </div>
-    </ListHeader>
+      </ListHeader>
 
-    {#each tournament.events as match}
-      <ListItem>
-        <Match {match} />
-      </ListItem>
-    {/each}
-  </List>
-</div>
+      {#each tournament.events as match}
+        <ListItem>
+          <Match {match} />
+        </ListItem>
+      {/each}
+    </List>
+  </div>
+{/key}
 
 <style>
   .tournament:not(:last-child) {
