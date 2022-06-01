@@ -32,6 +32,7 @@
     max-width: 300px;
     margin: 0 auto;
   }
+
   .tournament-container {
     margin: 2rem 0;
     background-color: #f4f4f4;

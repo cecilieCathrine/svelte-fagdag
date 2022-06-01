@@ -1,6 +1,5 @@
 <script>
   import List from '../list/List.svelte';
-  import ListHeader from '../list/ListHeader.svelte';
   import ListItem from '../list/ListItem.svelte';
   import Match from '../match/Match.svelte';
   import Logo from '../misc/Logo.svelte';
@@ -11,20 +10,21 @@
 {#key tournament}
   <div class="tournament" in:fade={{ duration: 300, delay: 100 }}>
     <List>
-      <ListHeader>
+      <svelte:fragment slot="header">
         <div class="header-container flex">
           <div class="button-content-right">
             <Logo {tournament} position="center left" width="24px" />
             <span class="button-text">{tournament.name}</span>
           </div>
         </div>
-      </ListHeader>
-
-      {#each tournament.events as match}
-        <ListItem>
-          <Match {match} />
-        </ListItem>
-      {/each}
+      </svelte:fragment>
+      <svelte:fragment slot="content">
+        {#each tournament.events as match}
+          <ListItem>
+            <Match {match} />
+          </ListItem>
+        {/each}
+      </svelte:fragment>
     </List>
   </div>
 {/key}
